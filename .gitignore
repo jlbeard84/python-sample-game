@@ -2,5 +2,6 @@
 /dist
 app.spec
 __pycache__
-.vscode
+/.vscode
 /build
+/docs
