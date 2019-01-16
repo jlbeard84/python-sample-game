@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jlbeard84/python-sample-game.svg?branch=master)](https://travis-ci.org/jlbeard84/python-sample-game)
+
 # Block Busting Clone
 
 ### Clone of the classic block busting arcade game to get familiar with Python. 
